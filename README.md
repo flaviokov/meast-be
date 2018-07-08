@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Bem vindo ao Meast PDV opensource
 
-You can use the [editor on GitHub](https://github.com/meast-pdv/meast-be/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+O projeto tem como característica ser um PDV opensource, utilizando tecnologia que possibilitem o escalonamento da aplicação, utilizando microserviços e técnicas que permitam alto volume de transações. Ele nasce focado em novas tecnologias, nas quais o mercado atual tem utilizado, reforçando o aprendizado para quem contribui e também permitir experimentar outras soluções na plataforma Java. Conta com a comunidade Java brasileira reunida em torno de um grupo de estudo, onde discutem-se ideias, carreira e oportunidades. Assim foi concebida esta ideia de colocar em prática todas as discussões realizadas em grupo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para participar do grupo basta acessar o seguinte link [BP - Estudos Java](ttps://chat.whatsapp.com/0PJzkCGoewtKmJ8WOSzZMg), sinta-se convidade a participar de uma nova forma de compartilhar conhecimento e aprendizado.
 
-### Markdown
+Adotamos o Scrum como princípio Agile para o projeto e para acompanharmos as atividades estamos utilizando a ferramenta Trello, para acessar nosso projeto, basta criar uma conta no site e depois solicitar pra entrar no time Meast-PDV. Segue o link [Meast-PDV TEAM](https://trello.com/meastpdv/home).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contato
 
-```markdown
-Syntax highlighted code block
+Venha fazer parte do grupo Meast-PDV no whatsApp, entre através deste link.
+[GRUPO](https://chat.whatsapp.com/Jx9flkeUywOCAyKQoqmRUk)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meast-pdv/meast-be/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
