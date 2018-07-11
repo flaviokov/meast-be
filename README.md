@@ -11,3 +11,5 @@ Adotamos o Scrum como princípio ágil para o projeto e para acompanharmos as at
 Venha fazer parte do grupo Meast-PDV no whatsApp, entre através deste link.
 [MEAST JAVA PDV](https://chat.whatsapp.com/Jx9flkeUywOCAyKQoqmRUk)
 
+Grupo hangout criado para realizarmos nossas reuniões e trocarmos uma ideia. Para se inscrever clique no link a seguir: [Hangout Group Meast-PDV](https://hangouts.google.com/group/cSNy6dPRiSmOiF9y1)
+
